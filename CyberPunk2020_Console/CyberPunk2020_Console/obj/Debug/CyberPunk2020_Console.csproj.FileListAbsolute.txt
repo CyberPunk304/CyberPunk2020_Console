@@ -7,3 +7,12 @@ C:\Users\dante\source\repos\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debu
 C:\Users\dante\source\repos\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.pdb
 C:\Users\dante\source\repos\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.Properties.Resources.resources
 C:\Users\dante\source\repos\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.GenerateResource.cache
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.exe.config
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.exe
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.pdb
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csprojAssemblyReference.cache
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.Properties.Resources.resources
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.GenerateResource.cache
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.exe
+C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.pdb
