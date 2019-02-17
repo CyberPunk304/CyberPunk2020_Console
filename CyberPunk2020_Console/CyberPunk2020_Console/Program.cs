@@ -24,6 +24,7 @@ namespace CyberPunk2020_Console
             #region Console window configuration
             Maximize();
             #endregion
+            //test commit
             Start();
         }
 

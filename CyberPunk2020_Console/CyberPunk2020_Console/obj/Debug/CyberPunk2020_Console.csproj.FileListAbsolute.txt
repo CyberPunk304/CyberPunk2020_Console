@@ -16,3 +16,12 @@ C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020
 C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.CoreCompileInputs.cache
 C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.exe
 C:\Users\dante\Desktop\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.pdb
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.exe.config
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.exe
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\bin\Debug\CyberPunk2020_Console.pdb
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csprojAssemblyReference.cache
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.Properties.Resources.resources
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.GenerateResource.cache
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.csproj.CoreCompileInputs.cache
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.exe
+C:\Users\dante\OneDrive\Pulpit\Projekty\Cyberpunk_2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\CyberPunk2020_Console\obj\Debug\CyberPunk2020_Console.pdb
