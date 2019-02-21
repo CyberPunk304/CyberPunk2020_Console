@@ -8,6 +8,7 @@ using System.Reflection;
 using System.Resources;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CyberPunk2020_Console
@@ -18,20 +19,20 @@ namespace CyberPunk2020_Console
         public static extern bool ShowWindow(System.IntPtr hWnd, int cmdShow);
         public ResourceManager rm = new ResourceManager("items", Assembly.GetExecutingAssembly());
 
-
         static void Main(string[] args)
         {
             #region Console window configuration
             Maximize();
             #endregion
-            //test commit
+            Thread soundThread = new Thread(SoundClass.RandomSoundPlay);
+            //Thread soundThread = new Thread(SoundClass.BeepSound);
+            soundThread.Start();
             Start();
         }
 
-
         public static void Start()
         {
-            Matrix.MatrixStart();
+            //Matrix.MatrixStart();
             Menu();
         }
 
@@ -53,11 +54,13 @@ namespace CyberPunk2020_Console
         {
             string answer;
             bool exit = false;
-            while(!exit)
+
+            while (!exit)
             {
                 CreateMenu();
                 answer = Console.ReadLine();
                 Console.Clear();
+
                 try
                 {
                     switch (Convert.ToInt32(answer))
@@ -70,7 +73,7 @@ namespace CyberPunk2020_Console
                             exit = true;
                             break;
                         default:
-                            Console.WriteLine("Wybrana opcja nie istnieje.");
+                           Console.WriteLine("Wybrana opcja nie istnieje.");
                             Console.WriteLine("Wciśnij dowolny klawisz...");
                             Console.ReadLine();
                             break;
